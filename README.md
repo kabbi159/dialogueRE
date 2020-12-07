@@ -1,5 +1,5 @@
-# diagloueRE
-Re-implementation of **"Diagloue-Based Relation Extraction"** (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08056)  
+# dialogueRE
+Re-implementation of **"Dialogue-Based Relation Extraction"** (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08056)  
 Official code and dataset are avilable in [[code]](https://github.com/nlpdata/dialogre) .  
 I want to make baseline code trainable in end-to-end for future works in this dataset.  
 I only implemented only bert baseline in DialogRE dataset v1 (English).
