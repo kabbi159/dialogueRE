@@ -23,6 +23,7 @@ python main.py
 ```
 
 ## Issue (check == solved)
+- [x] apply wandb and pytorch lighting - but it is my first attempt to use these libraries, please excuse my poor code :)
 - [ ] roberta model training failure
 - [x] long sequence processing implementation
 - [ ] long sequence processing harms performance
