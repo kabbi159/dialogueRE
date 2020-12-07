@@ -16,7 +16,7 @@ def main():
     # argument parsing
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--project_name", default='dialogueRE-jiwung', type=str)
+    parser.add_argument("--project_name", default='dialogueRE', type=str)
     parser.add_argument("--train_dir", default='./data/train.json', type=str)
     parser.add_argument("--val_dir", default='./data/dev.json', type=str)
     parser.add_argument("--test_dir", default='./data/test.json', type=str)
